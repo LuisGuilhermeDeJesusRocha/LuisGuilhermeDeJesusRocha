@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuisGuilhermeDeJesusRocha
-- 👀 I’m interested in  aprender  programação web e compartilhar meu projetos.
-- 🌱 I’m currently learning  HTML, CSS, JavaScript.
+- 👀 I’m interested in  aprender  programação  e compartilhar meus projetos.
+- 🌱I’m currently learning  HTML, CSS, JavaScript.
 - 💞️ I’m looking to collaborate on , projetos de nivel  iniciante, e estou a procura de uma oportun de estágio ou dev-Junior.
 - 📫 How to reach me ...
 
